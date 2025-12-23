@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 React Native Development Journey
+# 🚀 React Native Journey
 
 ### *A living knowledge base of real-world learning, mistakes, and growth*
 
@@ -78,7 +78,7 @@ Learning React Native goes **beyond components**. It's about understanding:
 ## 📂 Repository Structure
 
 ```
-📦 RNWR
+📦 RNJ
  ┣ 📂 daily-log/               # Day-by-day learning snapshots
  ┣ 📂 core-concepts/            # Fundamental RN & mobile concepts
  ┣ 📂 libraries/                # Deep dives into RN libraries
@@ -239,3 +239,4 @@ Some days = just links
 *Last updated: December 2025*
 
 </div>
+
